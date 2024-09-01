@@ -19,7 +19,6 @@ Winning Metrics: Breakdown of how matches are won, focusing on wins by wickets, 
 Consistent Performers: Mumbai Indians and Chennai Super Kings have consistently dominated the league.
 
 Scoring Trends: Over the years, there has been an upward trend in the average scores during the powerplay and death overs, indicating more aggressive 
-
 gameplay,espectially SRH changed it with highest score of 287 against RCB, which says how its becoming a Batsman dominated game.
 
 Player Excellence: AB de Villiers stands out with the highest number of 'Player of the Match' awards, but still his team RCB is yet to win Trophy highlights the importance of balanced team.
